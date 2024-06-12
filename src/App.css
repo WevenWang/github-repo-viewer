@@ -36,3 +36,16 @@
     transform: rotate(360deg);
   }
 }
+
+form {
+  margin-bottom: 20px;
+}
+
+input {
+  padding: 8px;
+  margin-right: 8px;
+}
+
+button {
+  padding: 8px;
+}
